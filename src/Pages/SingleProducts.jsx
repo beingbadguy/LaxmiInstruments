@@ -97,7 +97,7 @@ const SingleProduct = () => {
       </div>
 
       {/* Suggested Products */}
-      <div className="mt-16">
+      <div className="mt-16 mb-10">
         <h2 className="text-3xl font-semibold text-gray-900">
           Suggested Products
         </h2>
