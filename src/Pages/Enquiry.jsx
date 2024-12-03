@@ -3,7 +3,6 @@ import { useLocation } from "react-router-dom";
 
 const Enquiry = () => {
   const path = useLocation();
-  console.log(path);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, [path.pathname]);

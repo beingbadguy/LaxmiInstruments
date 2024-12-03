@@ -6,8 +6,6 @@ import { StoreContext } from "./Store/StoreContext";
 import FAQ from "./components/FAQ";
 
 const App = () => {
-  // const { products } = useContext(StoreContext);
-  // console.log(products);
   return (
     <div className="min-h-[50vh] select-none">
       <Autoslider />

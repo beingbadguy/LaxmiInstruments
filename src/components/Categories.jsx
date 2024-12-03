@@ -5,7 +5,6 @@ import { useNavigate } from "react-router-dom";
 
 const Categories = () => {
   const { products } = useContext(StoreContext);
-  console.log(products);
 
   const navigate = useNavigate();
   return (
