@@ -1,0 +1,156 @@
+[
+  {
+    "name": "A",
+    "imageSrc": "./A 85121.jpg",
+    "description": "Offers a wide range of products named 'A', highly durable and designed for specific applications.",
+    "features": [
+      "Sturdy design",
+      "Highly durable",
+      "Application-specific design"
+    ]
+  },
+  {
+    "name": "Zero Air Generator",
+    "imageSrc": "./Zero Air Generator 6358.jpg",
+    "description": "Offers a wide range of Zero Air Generators for various industrial applications with affordable pricing.",
+    "features": [
+      "Sturdy design",
+      "Highly durable",
+      "Application-specific design"
+    ]
+  },
+  {
+    "name": "Vaccum Oven",
+    "imageSrc": "./Vaccum Oven 6357.jpg",
+    "description": "Designed for drying and heating under controlled conditions from atmospheric pressure to vacuum up to 30” Hg.",
+    "features": [
+      "Available in sizes: 12” X 12” X 16”, 14” X 14” X 20”, 18” X 18” X 24”, 20” X 20” X 30”",
+      "Thermo-wall heat eliminates exposed heaters",
+      "Vacuum gauge, electronic controller, and heat selector on the top-mounted control panel",
+      "Heat-tempered window for observation",
+      "Vacuum levels controlled between 2” and 30” Hg",
+      "Radiant warm wall heat ensures even heat distribution",
+      "Proportional temperature control"
+    ]
+  },
+  {
+    "name": "Spot Extrusion System",
+    "imageSrc": "./Spot Extrusion System 6356.jpg",
+    "description": "Exhausts fumes from work surfaces with 360-degree rotation and adjustable angles. Made from aluminum with PP/FRP exhaust blower.",
+    "features": [
+      "Exhausts fumes up to 10 m/s",
+      "360-degree rotation",
+      "Adjustable angles",
+      "Aluminum body with PP/FRP exhaust blower"
+    ]
+  },
+  {
+    "name": "Muffle Furnace",
+    "imageSrc": "./Muffle Furnace 6355.jpg",
+    "description": "Heavy-duty furnace with ceramic insulation and precise temperature control.",
+    "features": [
+      "Heavy-duty exterior with epoxy blue powder coating",
+      "High thermal efficient ceramic insulation",
+      "Temperature range up to 960°C",
+      "Energy regulator, solid-state digital controller, or microprocessor controller",
+      "High temp. up to 1400°C with PID-based controller"
+    ]
+  },
+  {
+    "name": "Laboratory Furniture",
+    "imageSrc": "./Laboratory Furniture 6354.jpg",
+    "description": "Provides durable, chemical-resistant steel furniture with options for wooden doors and drawer fronts for better aesthetics.",
+    "features": [
+      "Steel with epoxy powder-coated storage",
+      "Anti-corrosive coat for lifetime durability",
+      "Drawer and shutter configurations to meet specific needs",
+      "Wooden door and drawer fronts for aesthetics"
+    ]
+  },
+  {
+    "name": "Instruments And Accessories",
+    "imageSrc": "./Instruments And Accessories 6353.jpg",
+    "description": "Offers a variety of sinks and accessories, including drop-in sinks made of ceramic, stainless, and polypropylene.",
+    "features": [
+      "Drop-in sinks in ceramic, stainless, and polypropylene",
+      "Highly resistant to acids, solvents, and salts",
+      "Cup sinks in polypropylene"
+    ]
+  },
+  {
+    "name": "High Pressure Manifolds System",
+    "imageSrc": "./High Pressure Manifolds System 6352.jpg",
+    "description": "Manufactures high-pressure manifolds systems for turbines, rotary systems, air-water showers, and continuous cylinder consumption.",
+    "features": [
+      "High-pressure manifolds system",
+      "Used for turbines, rotary systems, air-water showers",
+      "Continuous cylinder consumption"
+    ]
+  },
+  {
+    "name": "High Pressure Gas Lining",
+    "imageSrc": "./High Pressure Gas Lining 6351.jpg",
+    "description": "Commissioning high-pressure gas lining from ¼ inches to 2.0 inches using welding or detachable fitting processes.",
+    "features": [
+      "High-pressure gas lining",
+      "Welding or detachable fitting processes",
+      "Stainless steel material"
+    ]
+  },
+  {
+    "name": "Heating Mantle",
+    "imageSrc": "./Heating Mantle 6350.jpg",
+    "description": "Non-rusting aluminum housing with epoxy powder coating and high-quality insulation for temperature control.",
+    "features": [
+      "Aluminum housing, non-rusting",
+      "Epoxy powder coated finish",
+      "Thick hand-knitted fiberglass netting",
+      "High-quality insulation",
+      "Energy regulator power controller",
+      "Maximum surface temperature: 450°C",
+      "Booster heaters in bigger sizes, usable with round flask"
+    ]
+  },
+  {
+    "name": "Glove Box",
+    "imageSrc": "./Glove Box 6349.jpg",
+    "description": "Available in Acrylic, Stainless Steel, and MS material. Includes Programmable Logic Control Manual control and positive pressure method.",
+    "features": [
+      "Dimensions (Outer): 1500 X 800 X 1600 (H) mm",
+      "Dimensions (Inner): 1000 X 740 X 650 (H) mm",
+      "Air Lock: 300 X 300 X 300 (H) mm",
+      "Control: Programmable Logic Control Manual Control",
+      "Pressure Control: Automatic",
+      "Method: Positive Pressure, Hydrogen, and Catalyst"
+    ]
+  },
+  {
+    "name": "Gas Purification Panel",
+    "imageSrc": "./Gas Purification Panel 6348.jpg",
+    "description": "Purifies gas for GC detectors and ICP, ICP MS, AAS. Removes moisture up to 99.999% ppm.",
+    "features": [
+      "Panel for gas lines: H2, N2, Air, He, Hr, CH4, Butane, Ammonia, and Oxygen",
+      "Micro particle filters 5 µ to 20 µ",
+      "Gas Control Box for each gas",
+      "Manifolds for all gases",
+      "Cylinder regulators for all gases",
+      "Tubing and pneumatic fittings",
+      "Fittings for manifolds and hose"
+    ]
+  },
+  {
+    "name": "Fume Hood",
+    "imageSrc": "./Fume Hood 6347.jpg",
+    "description": "Manufacturer of MS, Powder Coated, Stainless Steel 302, 316, and 316L. Specializes in designing high-densile polypropylene materials.",
+    "features": [
+      "Range: 110–95",
+      "Flawless design for superior protection",
+      "Accommodates large and complex apparatus setups",
+      "Fluorescent light in vapor-proof fittings",
+      "Pre-set baffles",
+      "Pre-wired electrical fittings",
+      "Aerodynamic air foil",
+      "Base cabinet and level adjustment legs"
+    ]
+  }
+]
